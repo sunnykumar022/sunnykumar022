@@ -55,25 +55,24 @@
 </div>
 
 ###
-
-
-###
 ## 🔥 My Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunnykumar022&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunnykumar022&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnykumar022&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnykumar022&layout=compact&theme=tokyonight" />
 
-<img src="https://streak-stats.demolab.com?user=sunnykumar022&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=sunnykumar022&theme=tokyonight" />
 
 </div>
-###
+
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnykumar022&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnykumar022&theme=tokyo-night" />
 
 </div>
