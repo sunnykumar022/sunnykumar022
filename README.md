@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+
 <h1 align="center">Hi 👋, I'm Sunny Kumar</h1>
 <h3 align="center">Full Stack Developer | CSE Student | Competitive Programmer</h3>
 
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm 𝓼𝓾𝓷𝓷𝔂 from bihar<br><br>- 🔭 I’m a cse student<br>- 📚 I'm currently learning fullstack webdevlopment and  competetive coding(java)<br>- ⚡ In my free time I ...</p>
+<p align="left">Computer Science student from Bihar, India 🇮🇳<br><br>- 🎓 Pursuing B.Tech in Computer Science Engineeringt<br>- 💻 Learning Full Stack Web Development and Competitive Programming in Java<br>- ⚡ In my free time I ...</p>
 
 ###
 
