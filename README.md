@@ -1,6 +1,24 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/sunnykumar022/sunnykumar022/main/3d3bbbae-e706-4d4a-8114-9b63ceeee7c2.png" />
 </p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Programmer;Python+Developer;Linux+Enthusiast" />
+</p>
+<p align="center">
+
+<a href="https://github.com/sunnykumar022">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</p>
 <h1 align="center">Hi 👋, I'm Sunny Kumar</h1>
 
 <h3 align="center">
