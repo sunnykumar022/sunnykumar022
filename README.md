@@ -61,7 +61,23 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnykumar022&theme=tokyonight" />
+
+</div>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunnykumar022&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnykumar022&layout=compact&theme=tokyonight" />
+
 </div>
 
 ###
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnykumar022&theme=tokyo-night" />
+
+</div>
