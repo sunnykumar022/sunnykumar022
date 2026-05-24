@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sunnykumar022/sunnykumar022/main/3d3bbbae-e706-4d4a-8114-9b63ceeee7c2.png" />
+</p>
 <h1 align="center">Hi 👋, I'm Sunny Kumar</h1>
 
 <h3 align="center">
